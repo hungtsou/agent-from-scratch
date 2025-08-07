@@ -1,0 +1,5 @@
+course guide:
+https://clumsy-humor-894.notion.site/Agent-from-scratch-13554fed51a380749554c44aa8989406
+
+course repo:https://github.com/Hendrixer/agent-from-scratch
+
